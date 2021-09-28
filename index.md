@@ -1,0 +1,3 @@
+As part of the Natural Language Processing (NLP) group at ITU, I work with Online Harm and Annotation. I am interested in human-centered NLP: How can mutual relations of human practices and NLP techniques and methods be established, effectively applied and be part within the modeling and development processes? Besides that, I am also teaching within the course Data Mining and give guest lectures on annotation practices. Generally, I enjoy reflecting on our societal coexistence. I like to delve into possibilities and risks (ethical, political and legally) of computational methods and how these reshape human practices, thinking and values, especially where human interaction is involved.
+
+https://stromberg.ai/
